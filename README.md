@@ -1,2 +1,2 @@
 # agriculturainteligente
-Aqupi podran encontrar los códigos de python.
+Aqui podran encontrar los códigos de python.
